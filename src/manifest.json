@@ -1,0 +1,21 @@
+{
+  "name": "Changelog",
+  "desctription": "A plugin to let you search up SeatGeek components from inside Sketch",
+  "author": "SeatGeek, Daniel Thomas",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Commit to Changelog",
+      "identifier": "seatgeek.commit-changelog",
+      "script": "./plugin.js",
+      "shortcut" : "command shift p"
+    }
+  ],
+  "menu": {
+    "title": "Changelog",
+    "items": [
+      "seatgeek.commit-changelog"
+    ]
+  }
+}
