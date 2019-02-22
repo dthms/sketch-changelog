@@ -8,14 +8,19 @@ Hit `CMD + Shift + P` to add a new 'commit'. It'll ask you what type of change y
 The Changelog is added to its own page called `🛠 Changelog` any future 'commits' will be added to the Changelog on this page, you can add to it from any page inside the file.
 
 ### Get
-**[Download Latest Build](http://www.twtter.com)**
+**[Download Lastest Build](https://github.com/UseTabby/tabby-feedback/files/2893872/sketch-changelog.sketchplugin.zip)**
+
+- Unzip
+- Double Click `sketch-changelog.sketchplugin`
+- Installed ✨
+
 
 ### contributors
 Daniel Thomas, [Joseph Smith](https://twitter.com/_jsmth)
 
 ---
 
-![kapture 2019-02-22 at 11 42 50](https://user-images.githubusercontent.com/6005819/53240619-19a95480-3697-11e9-947c-205ae311ab32.gif)
+![kapture 2019-02-22 at 12 19 00](https://user-images.githubusercontent.com/6005819/53242269-372ced00-369c-11e9-8407-d3073c151d71.gif)
 
 ---
 
