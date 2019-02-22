@@ -12,6 +12,7 @@ export default () => {
     }
     addLastUpdated(page.artboard);
     createCommit(page.artboard);
+    sketch.UI.message('Logged 🤙');
   } catch (err) {
     sketch.UI.message(err);
   }
