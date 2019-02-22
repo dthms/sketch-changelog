@@ -10,8 +10,8 @@ The Changelog is added to its own page called `🛠 Changelog` any future 'commi
 ### Get
 **[Download Latest Build](http://www.twtter.com)**
 
-### Contributers
-Daniel Thomas, Joseph Smith
+### contributors
+Daniel Thomas, [Joseph Smith](https://twitter.com/_jsmth)
 
 ---
 
