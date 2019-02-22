@@ -10,7 +10,7 @@ const createCommit = (artboard) => {
 
   UI.getInputFromUser("What did you do?", {
     type: UI.INPUT_TYPE.selection,
-    possibleValues: ['Add', 'Update', 'Remove']
+    possibleValues: ['Update', 'Add', 'Remove']
   }, (err, type) => {
     if (type && !err) {
       UI.getInputFromUser(`What did you ${type.toLowerCase()}?`, {}, (err, value) => {
